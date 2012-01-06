@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MorseCode.Lib", "MorseCode.Lib\MorseCode.Lib.csproj", "{37EA3B69-12C4-42CF-ACAA-C9694CDB531E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MorseCode.UI", "MorseCode.UI\MorseCode.UI.csproj", "{A652078A-3822-48F9-ABA3-285ED1168EDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37EA3B69-12C4-42CF-ACAA-C9694CDB531E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37EA3B69-12C4-42CF-ACAA-C9694CDB531E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37EA3B69-12C4-42CF-ACAA-C9694CDB531E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37EA3B69-12C4-42CF-ACAA-C9694CDB531E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A652078A-3822-48F9-ABA3-285ED1168EDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A652078A-3822-48F9-ABA3-285ED1168EDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A652078A-3822-48F9-ABA3-285ED1168EDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A652078A-3822-48F9-ABA3-285ED1168EDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
