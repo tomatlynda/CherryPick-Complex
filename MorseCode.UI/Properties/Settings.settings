@@ -3,10 +3,10 @@
   <Profiles />
   <Settings>
     <Setting Name="Dot" Type="System.Char" Scope="User">
-      <Value Profile="(Default)">.</Value>
+      <Value Profile="(Default)">d</Value>
     </Setting>
     <Setting Name="Dash" Type="System.Char" Scope="User">
-      <Value Profile="(Default)">-</Value>
+      <Value Profile="(Default)">D</Value>
     </Setting>
     <Setting Name="CharSpace" Type="System.String" Scope="User">
       <Value Profile="(Default)" />
@@ -18,7 +18,7 @@
       <Value Profile="(Default)">500</Value>
     </Setting>
     <Setting Name="SpaceSense" Type="System.Int32" Scope="User">
-      <Value Profile="(Default)">500</Value>
+      <Value Profile="(Default)">600</Value>
     </Setting>
     <Setting Name="IsMuted" Type="System.Boolean" Scope="User">
       <Value Profile="(Default)">False</Value>
